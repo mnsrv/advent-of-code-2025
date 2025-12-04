@@ -1,3 +1,6 @@
 {
-  "type": "module"
+  "name": "advent-of-code-2025",
+  "devDependencies": {
+    "prettier": "^3.7.4"
+  }
 }
